@@ -30,7 +30,7 @@ Mục Lục
 2. [Logging](./Docs%20Linux%20Admin/4.2%20Logging.md)
 3. [Memory Management](./Docs%20Linux%20Admin/4.3%20Memory%20Management.md)
 4. [Resource Monitoring](./Docs%20Linux%20Admin/4.4%20Resource%20Monitoring.md)
-5. [Package management](./Docs%20Linux%20Admin/5.1%20Tìm%20hiểu%20chung%20về%20Network.md)
+5. [Package management](./Docs%20Linux%20Admin/4.5%20Package%20Management.md)
 
 ### V. Network Management
 
